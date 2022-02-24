@@ -1,0 +1,28 @@
+.headerMain{
+    height: 50px !important;
+    box-shadow: 0 0 10px 0 #00000033;
+    background-color: #6ecffd;
+    width: 100%;
+}
+
+.home-center-item-active{
+    background-color: #d6d2ce9e;
+}
+
+.home-center-tabs{
+    margin-top: 3px;
+}
+
+.header-right-items{
+    height: 40px;
+    margin-top: 4px;
+}
+
+.header-right-item{
+    padding: 2px 9px 7px 9px;
+    background-color: #d6d2ce9e;
+}
+
+.drop-options-item h4{
+    padding-top: 12px;
+}

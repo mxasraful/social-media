@@ -1,0 +1,16 @@
+.loginPage a{
+    color: #007DC4 !important;
+}
+.loginPage .button-submit{
+    background: #007DC4 !important;
+    border: 1px solid #018cdd;
+}
+
+.type-pass-input{
+    border-radius: 3px 0 0 3px !important;
+    border-right: none !important;
+}
+
+.type-pass-toggle{
+    border-radius: 0 3px 3px 0 !important;
+}
